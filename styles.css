@@ -18,3 +18,8 @@ a:visited{
 a:hover{
     color:white;
 }
+
+h2{
+    color:green;
+    font-weight: 900;
+}
